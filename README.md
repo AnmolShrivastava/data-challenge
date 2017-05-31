@@ -1,2 +1,3 @@
 # data-challenge
-online competition
+online competition  
+machine learning algorithm using data.table and h2o package 
